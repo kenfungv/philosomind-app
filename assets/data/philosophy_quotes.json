@@ -1,0 +1,93 @@
+{
+  "stoicism": [
+    {
+      "id": "stoic_001",
+      "text": "你無法控制外在事件，但能掌握自己的反應。",
+      "text_en": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "馬可·奧勒留",
+      "author_en": "Marcus Aurelius",
+      "category": "stoicism",
+      "emotion_tags": ["anxiety", "stress", "overwhelm"]
+    },
+    {
+      "id": "stoic_002",
+      "text": "真正的幸福不在於擁有，而在於內心的寵靜。",
+      "text_en": "True happiness is to enjoy the present, without anxious dependence upon the future.",
+      "author": "塞內卡",
+      "author_en": "Seneca",
+      "category": "stoicism",
+      "emotion_tags": ["worry", "fear"]
+    }
+  ],
+  "buddhism": [
+    {
+      "id": "buddha_001",
+      "text": "痛苦不是必然，苦難是選擇。",
+      "text_en": "Pain is inevitable, suffering is optional.",
+      "author": "佛陀",
+      "author_en": "Buddha",
+      "category": "buddhism",
+      "emotion_tags": ["sadness", "pain"]
+    },
+    {
+      "id": "buddha_002",
+      "text": "活在當下，才能真正活著。",
+      "text_en": "The present moment is the only time over which we have dominion.",
+      "author": "一行禪師",
+      "author_en": "Thich Nhat Hanh",
+      "category": "buddhism",
+      "emotion_tags": ["distraction", "anxiety"]
+    }
+  ],
+  "taoism": [
+    {
+      "id": "tao_001",
+      "text": "道法自然，無為而無不為。",
+      "text_en": "Nature does not hurry, yet everything is accomplished.",
+      "author": "老子",
+      "author_en": "Laozi",
+      "category": "taoism",
+      "emotion_tags": ["impatience", "stress"]
+    },
+    {
+      "id": "tao_002",
+      "text": "知足者富，知止者久。",
+      "text_en": "He who knows contentment is rich.",
+      "author": "老子",
+      "author_en": "Laozi",
+      "category": "taoism",
+      "emotion_tags": ["dissatisfaction", "envy"]
+    }
+  ],
+  "confucianism": [
+    {
+      "id": "conf_001",
+      "text": "己所不欲，勿施於人。",
+      "text_en": "What you do not want done to yourself, do not do to others.",
+      "author": "孔子",
+      "author_en": "Confucius",
+      "category": "confucianism",
+      "emotion_tags": ["conflict", "anger"]
+    }
+  ],
+  "existentialism": [
+    {
+      "id": "exist_001",
+      "text": "生命本無意義，意義由你賦予。",
+      "text_en": "Life has no meaning. Each of us has meaning and we bring it to life.",
+      "author": "尼采",
+      "author_en": "Friedrich Nietzsche",
+      "category": "existentialism",
+      "emotion_tags": ["emptiness", "confusion"]
+    },
+    {
+      "id": "exist_002",
+      "text": "存在先於本質，你是你所選擇的。",
+      "text_en": "Existence precedes essence. You are what you choose to be.",
+      "author": "沙特",
+      "author_en": "Jean-Paul Sartre",
+      "category": "existentialism",
+      "emotion_tags": ["identity_crisis", "doubt"]
+    }
+  ]
+}
